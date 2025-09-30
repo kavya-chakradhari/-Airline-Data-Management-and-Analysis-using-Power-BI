@@ -1,7 +1,5 @@
-# -Airline-Data-Management-and-Analysis-using-Power-BI
+# Airline-Data-Management-and-Analysis-using-Power-BI
 Developed interactive Power BI dashboards to analyze flight, passenger, and ticket data. Implemented DAX calculations, Row-Level Security, and scheduled refresh to deliver actionable insights for airline operations.
-
-----
 
 
 ## Overview  
@@ -9,7 +7,6 @@ This project focuses on **analyzing and managing airline data** to uncover opera
 Using **Power BI**, I performed end-to-end tasks including **data cleaning, modeling, DAX calculations, and dashboard creation**.  
 The project demonstrates how raw airline data (flights, passengers, tickets) can be transformed into **actionable insights** that improve efficiency and decision-making.  
 
----
 
 ## Problem Statement  
 The airline industry operates with high complexity, involving flight schedules, ticket bookings, and passenger details. Without proper analysis, it is challenging to identify inefficiencies or track performance.  
@@ -18,7 +15,6 @@ This project aims to solve these challenges by designing an interactive Power BI
 - Passenger management  
 - Ticket booking trends  
 
----
 
 ## Datasets Used  
 The project uses **three interlinked datasets**:  
@@ -29,7 +25,6 @@ The project uses **three interlinked datasets**:
 
 These datasets were connected using **FlightID** as the key.  
 
----
 
 ## Project Workflow  
 
@@ -65,7 +60,6 @@ Built **interactive dashboards** with visuals including:
 - Implemented **Row-Level Security (RLS)** to restrict access for Airline A data.  
 - Configured **daily scheduled refresh** at 5 PM for automated updates.  
 
----
 
 ## Key Insights  
 - Identified **top-performing flights** and flagged those needing improvement.  
@@ -73,14 +67,12 @@ Built **interactive dashboards** with visuals including:
 - Gained visibility into **ticket booking statuses** (confirmed, pending, canceled).  
 - Improved airline operational decision-making with real-time visual insights.  
 
----
 
 ## Tools & Technologies  
 - **Power BI** – Data cleaning, modeling, visualization, DAX calculations  
 - **Power Query** – ETL (Extract, Transform, Load) operations  
 - **Power BI Service** – Dashboard publishing, Row-Level Security, scheduled refresh  
 
----
 
 ## Outcome  
 The final deliverable is an **interactive Power BI dashboard** that:  
@@ -89,4 +81,3 @@ The final deliverable is an **interactive Power BI dashboard** that:
 - Ensures **data privacy and security** with RLS  
 - Enables airlines to monitor performance and booking trends effectively  
 
----
